@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457902710727",
+    "project_id": "school-app-94bdf",
+    "storage_bucket": "school-app-94bdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457902710727:android:a6b57d4f62cb4e4799c3e2",
+        "android_client_info": {
+          "package_name": "com.example.schoolapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-adbSlF6vTSO9nxfHrG_WUUqyqdpv8h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
